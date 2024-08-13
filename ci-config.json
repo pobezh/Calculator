@@ -1,0 +1,8 @@
+{
+  "execute": {
+    "Run": "cd /home/user/data && go run .",
+    "Test": "cd /home/user/data && go test ./..."
+  },
+  "default_file": "main.go"
+}
+  
